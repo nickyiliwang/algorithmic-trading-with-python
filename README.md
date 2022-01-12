@@ -1,4 +1,4 @@
-# algorithmic-trading-with-python
+# Algorithmic trading with python
 
 ## Goals
 1. Learn Python the fun way
