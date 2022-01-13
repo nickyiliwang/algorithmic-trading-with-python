@@ -77,3 +77,26 @@ Your Margin Closeout Value is 1,000 + 120.50 = 1,120.50 USD.
 *In conclusion, margin closeout is a broker's way of protecting their money, the less the closeout value, the less time you have to react before a warning
 
 ## Netting vs. Hedging 
+netting example:
+I'm buying long position of 100k of a trade and selling 50k of the same instrument, thus netting the 100k
+but we made 3 transactions and only needed to pay for 1 spread cost
+
+Hedging:
+We hold both the Long and short position at the same time: ie. 100k EUR/USD LONG and 50k SHORT EUR/USD, if I SHORT 50k EUR/USD, we would hold 100k LONG and SHORT of the same instrument 
+While we have these 2 positions open, it seems like we are not at risk of losing money
+
+The difference:
+1. While hedging we are trading almost the same ammount in transaction while paying the spread twice
+
+Conclusion:
+Opening a Netting account will yield less trading costs
+
+## Market, Limit and Stop Orders
+1. Limit order allows an investor to set the minimum or maximum price at which they would like to buy or sell
+2. Stop order allows an investor to specify the particular price at which they would like to buy or sell.
+
+## Take-Profit and Stop-Loss Order
+1. A take profit (TP) works automatically closes a position once a profit target is reached to lock in profits.
+2. Stop loss (SL) is a price limit entered by a trader. 
+3. When the price limit is reached the open position will close to prevent further losses.
+
